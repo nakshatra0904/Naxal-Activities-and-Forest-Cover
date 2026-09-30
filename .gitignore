@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+work/pydeps/
+work/mplconfig/
+reproduction.log
+work/sfr_2001.pdf
+work/mn30_grd.zip
+work/terrain/
+report/*.aux
+report/*.log
+report/*.xdv
+report/*.synctex.gz
