@@ -1,0 +1,309 @@
+Level 1 name,Level 2 name,state,fsi_2001_unit,match_status,population_thousands,wb_area_km2,st_pct,sc_pct,literacy_pct,age7plus_pct
+Uttar Pradesh,Saharanpur,Uttar Pradesh,Saharanpur,direct normalized name,2807.0,3619.0,0.02,21.73,61.2,81.4
+Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Muzzaffarnagar,explicit alias or historical parent,3528.0,4056.0,0.0,13.5,60.7,80.9
+Uttar Pradesh,Bijnor,Uttar Pradesh,Bijnor,direct normalized name,3131.0,4593.0,0.08,20.94,58.1,80.30000000000001
+Uttar Pradesh,Moradabad,Uttar Pradesh,Moradabad,direct normalized name,3809.0,3679.0,0.01,15.86,44.7,79.7
+Uttar Pradesh,Rampur,Uttar Pradesh,Rampur,direct normalized name,1920.0,2418.0,0.02,13.38,38.8,79.30000000000001
+Uttar Pradesh,Jyotiba Phule Nagar,Uttar Pradesh,Jyotiba Phule Nagar,direct normalized name,1499.0,2176.0,0.0,17.27,49.5,79.80000000000001
+Uttar Pradesh,Meerut,Uttar Pradesh,Meerut,direct normalized name,2967.0,2543.0,0.01,18.44,64.8,82.7
+Uttar Pradesh,Baghpat,Uttar Pradesh,Bagpat,explicit alias or historical parent,1164.0,1297.0,0.0,10.98,64.2,82.4
+Uttar Pradesh,Ghaziabad,Uttar Pradesh,Ghaziabad,direct normalized name,3233.0,1993.0,0.01,18.24,67.3,82.80000000000001
+Uttar Pradesh,Gautam Buddha Nagar,Uttar Pradesh,Gautam Buddh Nagar,explicit alias or historical parent,1023.0,1217.0,0.03,16.31,68.7,81.80000000000001
+Uttar Pradesh,Bulandshahr,Uttar Pradesh,Bulandshahar,explicit alias or historical parent,3010.0,3686.0,0.02,18.26,64.0,81.60000000000001
+Uttar Pradesh,Aligarh,Uttar Pradesh,Aligarh,direct normalized name,2989.0,3655.0,0.01,21.2,58.5,81.2
+Uttar Pradesh,Mahamaya Nagar,Uttar Pradesh,Hathras,explicit alias or historical parent,1331.0,1756.0,0.01,25.2,62.5,80.9
+Uttar Pradesh,Mathura,Uttar Pradesh,Mathura,direct normalized name,2075.0,3351.0,0.01,19.6,61.5,80.4
+Uttar Pradesh,Agra,Uttar Pradesh,Agra,direct normalized name,3622.0,3990.0,0.02,20.31,63.5,81.10000000000001
+Uttar Pradesh,Firozabad,Uttar Pradesh,Firozabad,direct normalized name,1996.0,2417.0,0.0,22.24,59.8,80.10000000000001
+Uttar Pradesh,Mainpuri,Uttar Pradesh,Mainpuri,direct normalized name,1597.0,2691.0,0.04,19.31,65.10000000000001,81.0
+Uttar Pradesh,Budaun,Uttar Pradesh,Budaun,direct normalized name,3067.0,5194.0,0.0,17.09,38.2,78.9
+Uttar Pradesh,Bareilly,Uttar Pradesh,Bareilly,direct normalized name,3615.0,4133.0,0.01,12.65,47.8,80.10000000000001
+Uttar Pradesh,Pilibhit,Uttar Pradesh,Pilibhit,direct normalized name,1727.0,3756.0,0.06,16.47,49.5,80.30000000000001
+Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Shahjahanpur,direct normalized name,2458.0,4336.0,0.0,17.72,49.1,80.30000000000001
+Uttar Pradesh,Kheri,Uttar Pradesh,Kheri,direct normalized name,3206.0,7626.0,1.18,25.58,48.400000000000006,80.2
+Uttar Pradesh,Sitapur,Uttar Pradesh,Sitapur,direct normalized name,3620.0,5759.0,0.01,31.87,48.3,80.30000000000001
+Uttar Pradesh,Hardoi,Uttar Pradesh,Hardoi,direct normalized name,3397.0,5951.0,0.01,31.36,51.900000000000006,80.60000000000001
+Uttar Pradesh,Unnao,Uttar Pradesh,Unnao,direct normalized name,2700.0,4558.0,0.04,30.64,54.6,82.4
+Uttar Pradesh,Lucknow,Uttar Pradesh,Lucknow,direct normalized name,3609.0,2515.0,0.08,21.29,68.7,85.0
+Uttar Pradesh,Rae Bareli,Uttar Pradesh,Raibareli,explicit alias or historical parent,2872.0,4584.0,0.06,29.83,53.8,81.5
+Uttar Pradesh,Farrukhabad,Uttar Pradesh,Farrukhabad,direct normalized name,1570.0,2197.0,0.06,16.43,60.900000000000006,81.7
+Uttar Pradesh,Kannauj,Uttar Pradesh,Kannauj,direct normalized name,1389.0,2097.0,0.0,18.43,61.900000000000006,81.30000000000001
+Uttar Pradesh,Etawah,Uttar Pradesh,Etawah,direct normalized name,1339.0,2338.0,0.0,23.41,69.60000000000001,82.30000000000001
+Uttar Pradesh,Auraiya,Uttar Pradesh,Orraiya,explicit alias or historical parent,1180.0,1981.0,0.01,27.69,70.5,81.80000000000001
+Uttar Pradesh,Kanpur Dehat,Uttar Pradesh,Kanpur Dehat,direct normalized name,1563.0,3203.0,0.02,24.85,66.4,82.10000000000001
+Uttar Pradesh,Kanpur Nagar,Uttar Pradesh,Kanpur Nagar,direct normalized name,4168.0,2984.0,0.05,16.45,74.4,85.80000000000001
+Uttar Pradesh,Jalaun,Uttar Pradesh,Jalaun,direct normalized name,1454.0,4605.0,0.01,27.04,64.5,83.30000000000001
+Uttar Pradesh,Jhansi,Uttar Pradesh,Jhansi,direct normalized name,1658.0,4953.0,0.06,28.07,65.5,83.9
+Uttar Pradesh,Lalitpur,Uttar Pradesh,Lalitpur,direct normalized name,978.0,4930.0,0.0,24.93,49.5,79.5
+Uttar Pradesh,Hamirpur,Uttar Pradesh,Hamirpur,direct normalized name,994.0,4025.0,0.02,22.59,57.7,82.0
+Uttar Pradesh,Mahoba,Uttar Pradesh,Mahoba,direct normalized name,758.0,3079.0,0.01,25.85,53.2,81.0
+Uttar Pradesh,Banda,Uttar Pradesh,Banda,direct normalized name,1497.0,4308.0,0.0,20.83,54.400000000000006,80.30000000000001
+Uttar Pradesh,Chitrakoot,Uttar Pradesh,Chitrkoot,explicit alias or historical parent,801.0,3230.0,0.0,23.59,59.7,79.60000000000001
+Uttar Pradesh,Fatehpur,Uttar Pradesh,Fatehpur,direct normalized name,2290.0,4211.0,0.02,25.04,56.3,81.80000000000001
+Uttar Pradesh,Pratapgarh,Uttar Pradesh,Pratapgarh,direct normalized name,2731.0,3730.0,0.01,22.01,57.6,81.2
+Uttar Pradesh,Kaushambi,Uttar Pradesh,Kaushambi,direct normalized name,1292.0,1796.0,0.01,36.1,46.900000000000006,79.5
+Uttar Pradesh,Allahabad,Uttar Pradesh,Allahabad,direct normalized name,4937.0,5417.0,0.05,28.84,54.5,80.60000000000001
+Uttar Pradesh,Bara Banki,Uttar Pradesh,Barabanki,direct normalized name,2674.0,3942.0,0.02,26.89,47.400000000000006,80.7
+Uttar Pradesh,Faizabad,Uttar Pradesh,Faizabad,direct normalized name,2087.0,2595.0,0.01,22.59,56.3,81.7
+Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh,Ambedkar Nagar,direct normalized name,1981.0,2299.0,0.01,24.44,58.400000000000006,80.60000000000001
+Uttar Pradesh,Sultanpur,Uttar Pradesh,Sultanpur,direct normalized name,3215.0,4480.0,0.01,22.25,55.8,80.80000000000001
+Uttar Pradesh,Bahraich,Uttar Pradesh,Bahraich,direct normalized name,2694.0,4851.0,0.38,16.39,34.5,79.80000000000001
+Uttar Pradesh,Shrawasti,Uttar Pradesh,Bahraich,explicit alias or historical parent,856.0,1953.0,0.4,18.39,33.800000000000004,80.0
+Uttar Pradesh,Balrampur,Uttar Pradesh,Balrampur,direct normalized name,1681.0,3268.0,1.15,13.48,34.6,79.80000000000001
+Uttar Pradesh,Gonda,Uttar Pradesh,Gonda,direct normalized name,2764.0,4029.0,0.01,15.67,42.6,80.60000000000001
+Uttar Pradesh,Siddharthnagar,Uttar Pradesh,Siddharth Nagar,direct normalized name,1996.0,2810.0,0.01,16.53,42.3,78.7
+Uttar Pradesh,Basti,Uttar Pradesh,Basti,direct normalized name,2076.0,2927.0,0.01,20.87,52.5,80.5
+Uttar Pradesh,Sant Kabir Nagar,Uttar Pradesh,Sant Kabir Nagar,direct normalized name,1420.0,1644.0,0.02,21.19,50.900000000000006,79.30000000000001
+Uttar Pradesh,Mahrajganj,Uttar Pradesh,Maharaj Ganj,explicit alias or historical parent,2158.0,2910.0,0.12,19.51,46.6,78.9
+Uttar Pradesh,Gorakhpur,Uttar Pradesh,Gorakhpur,direct normalized name,3769.0,3324.0,0.02,22.05,58.5,81.60000000000001
+Uttar Pradesh,Kushinagar,Uttar Pradesh,Kushinagar,direct normalized name,2892.0,2908.0,0.01,18.12,46.900000000000006,79.7
+Uttar Pradesh,Deoria,Uttar Pradesh,Deoria,direct normalized name,2714.0,2523.0,0.02,18.18,58.6,81.0
+Uttar Pradesh,Azamgarh,Uttar Pradesh,Azamgarh,direct normalized name,3940.0,4279.0,0.02,25.73,57.0,79.80000000000001
+Uttar Pradesh,Mau,Uttar Pradesh,Mau,direct normalized name,1843.0,1655.0,0.01,11.37,55.900000000000006,79.5
+Uttar Pradesh,Ballia,Uttar Pradesh,Ballia,direct normalized name,2761.0,2931.0,0.01,16.47,57.900000000000006,81.30000000000001
+Uttar Pradesh,Jaunpur,Uttar Pradesh,Jaunpur,direct normalized name,3911.0,3998.0,0.01,21.93,59.8,80.0
+Uttar Pradesh,Ghazipur,Uttar Pradesh,Ghazipur,direct normalized name,3038.0,3358.0,0.01,21.38,59.6,79.9
+Uttar Pradesh,Chandauli,Uttar Pradesh,Chandauli,direct normalized name,1629.0,2522.0,0.02,24.29,59.7,80.0
+Uttar Pradesh,Varanasi,Uttar Pradesh,Varanasi,direct normalized name,3123.0,1546.0,0.02,13.88,66.10000000000001,81.7
+Uttar Pradesh,Sant Ravidas Nagar (Bhadohi),Uttar Pradesh,Sant Ravidas Nagar,explicit alias or historical parent,1354.0,998.0,0.02,21.63,57.900000000000006,79.80000000000001
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Mirzapur,direct normalized name,2074.0,4439.0,0.06,26.76,55.3,79.9
+Uttar Pradesh,Sonbhadra,Uttar Pradesh,Sonbhadra,direct normalized name,1503.0,6849.0,0.05,34.34,52.3,79.60000000000001
+Uttar Pradesh,Etah,Uttar Pradesh,Etah,direct normalized name,1532.0,2516.0,0.0,16.61,59.400000000000006,80.30000000000001
+Uttar Pradesh,Kanshiram Nagar,Uttar Pradesh,Etah,explicit alias or historical parent,1229.0,1943.0,0.0,17.63,48.7,79.80000000000001
+Bihar,Pashchim Champaran,Bihar,Paschimi Champaran,explicit alias or historical parent,3043.0,5244.0,1.48,14.28,38.900000000000006,78.7
+Bihar,Purba Champaran,Bihar,Purbi Champaran,explicit alias or historical parent,3860.0,3997.0,0.12,13.05,37.5,78.7
+Bihar,Sheohar,Bihar,Sheohar,direct normalized name,516.0,447.0,0.01,14.42,35.300000000000004,79.4
+Bihar,Sitamarhi,Bihar,Sitamarhi,direct normalized name,2667.0,2155.0,0.07,11.77,38.5,79.30000000000001
+Bihar,Madhubani,Bihar,Madhubani,direct normalized name,3575.0,3449.0,0.04,13.48,42.0,79.7
+Bihar,Supaul,Bihar,Sapaul,explicit alias or historical parent,1733.0,2465.0,0.3,14.8,37.3,78.80000000000001
+Bihar,Araria,Bihar,Araria,direct normalized name,2159.0,2759.0,1.36,13.6,35.0,78.0
+Bihar,Kishanganj,Bihar,Kishanganj,direct normalized name,1296.0,1921.0,3.63,6.62,31.1,77.80000000000001
+Bihar,Purnia,Bihar,Purnia,direct normalized name,2490.0,3220.0,4.4,12.27,35.1,78.4
+Bihar,Katihar,Bihar,Katihar,direct normalized name,2392.0,3072.0,5.87,8.71,35.1,78.0
+Bihar,Madhepura,Bihar,Madhepura,direct normalized name,1527.0,1777.0,0.61,17.06,36.1,78.4
+Bihar,Saharsa,Bihar,Saharsa,direct normalized name,1508.0,1710.0,0.31,16.09,39.1,79.0
+Bihar,Darbhanga,Bihar,Darbhanga,direct normalized name,3244.0,2528.0,0.03,15.51,44.3,79.9
+Bihar,Muzaffarpur,Bihar,Muzaffarpur,direct normalized name,3729.0,3212.0,0.09,15.87,48.0,80.2
+Bihar,Gopalganj,Bihar,Goplaganj,explicit alias or historical parent,2153.0,2038.0,0.29,12.41,47.5,79.9
+Bihar,Siwan,Bihar,Siwan,direct normalized name,2714.0,2226.0,0.51,11.38,51.6,79.80000000000001
+Bihar,Saran,Bihar,Saran,direct normalized name,3249.0,2639.0,0.21,12.0,51.8,80.10000000000001
+Bihar,Vaishali,Bihar,Vaishali,direct normalized name,2718.0,2016.0,0.11,20.68,50.5,80.0
+Bihar,Samastipur,Bihar,Samastipur,direct normalized name,3395.0,2600.0,0.1,18.52,45.1,79.10000000000001
+Bihar,Begusarai,Bihar,Begusarai,direct normalized name,2096.0,1886.0,0.06,14.52,48.0,79.5
+Bihar,Khagaria,Bihar,Khagaria,direct normalized name,1280.0,1488.0,0.03,14.46,41.3,78.2
+Bihar,Bhagalpur,Bihar,Bhagalpur,direct normalized name,2423.0,2559.0,2.29,10.51,49.5,80.5
+Bihar,Banka,Bihar,Banka,direct normalized name,1609.0,3078.0,4.67,12.44,42.7,79.60000000000001
+Bihar,Munger,Bihar,Munger,direct normalized name,1138.0,1395.0,1.59,13.27,59.5,81.9
+Bihar,Lakhisarai,Bihar,Lakhisarai,direct normalized name,802.0,1295.0,0.7000000000000001,15.78,48.0,78.9
+Bihar,Sheikhpura,Bihar,Sheikhpura,direct normalized name,518.0,643.0,0.04,19.74,48.6,79.10000000000001
+Bihar,Nalanda,Bihar,Nalanda,direct normalized name,2371.0,2319.0,0.04,19.99,53.2,80.5
+Bihar,Patna,Bihar,Patna,direct normalized name,4639.0,3309.0,0.2,15.47,62.900000000000006,82.60000000000001
+Bihar,Bhojpur,Bihar,Bhojpur,direct normalized name,2243.0,2434.0,0.37,15.32,59.0,81.10000000000001
+Bihar,Buxar,Bihar,Buxar,direct normalized name,1402.0,1703.0,0.6,14.12,56.8,80.60000000000001
+Bihar,Kaimur (Bhabua),Bihar,Bhabua,explicit alias or historical parent,1276.0,3338.0,2.79,22.28,55.1,79.10000000000001
+Bihar,Rohtas,Bihar,Rohtas,direct normalized name,2464.0,3862.0,1.04,18.12,61.3,80.2
+Bihar,Aurangabad,Bihar,Aurangabad,direct normalized name,2013.0,3327.0,0.08,23.49,57.0,80.2
+Bihar,Gaya,Bihar,Gaya,direct normalized name,3473.0,4986.0,0.08,29.64,50.400000000000006,80.2
+Bihar,Nawada,Bihar,Nawada,direct normalized name,1784.0,2503.0,0.12,24.09,46.8,80.10000000000001
+Bihar,Jamui,Bihar,Jamui,direct normalized name,1399.0,3055.0,4.82,17.35,42.400000000000006,80.2
+Bihar,Jehanabad,Bihar,Jehanabad,direct normalized name,926.0,916.0,0.09,18.9,55.3,80.60000000000001
+Bihar,Arwal,Bihar,Jehanabad,explicit alias or historical parent,546.0,627.0,0.09,18.9,55.3,80.60000000000001
+West Bengal,Darjiling,West Bengal,Darjeeling,explicit alias or historical parent,1609.0,3176.0,12.69,16.09,71.8,87.30000000000001
+West Bengal,Jalpaiguri,West Bengal,Jalpaiguri,direct normalized name,3401.0,6262.0,18.87,36.71,62.900000000000006,84.7
+West Bengal,Koch Bihar,West Bengal,Coochbehar,explicit alias or historical parent,2479.0,3354.0,0.5700000000000001,50.11,66.3,84.4
+West Bengal,Uttar Dinajpur,West Bengal,Uttar Dinajpur,direct normalized name,2426.0,3162.0,5.11,27.71,47.900000000000006,79.0
+West Bengal,Dakshin Dinajpur,West Bengal,Dakshin Dinajpur,direct normalized name,1498.0,2212.0,16.12,28.78,63.6,83.60000000000001
+West Bengal,Maldah,West Bengal,Maldah,direct normalized name,3290.0,3743.0,6.9,16.84,50.3,80.60000000000001
+West Bengal,Murshidabad,West Bengal,Murshidabad,direct normalized name,5867.0,5296.0,1.29,12.0,54.3,82.2
+West Bengal,Birbhum,West Bengal,Birbhum,direct normalized name,2981.0,4528.0,6.74,29.51,61.5,83.80000000000001
+West Bengal,Barddhaman,West Bengal,Bardhman,explicit alias or historical parent,6878.0,7025.0,6.41,26.98,70.2,86.9
+West Bengal,Nadia,West Bengal,Nadia,direct normalized name,4584.0,3904.0,2.47,29.66,66.10000000000001,86.80000000000001
+West Bengal,North Twenty Four Parganas,West Bengal,24 Pargana North,explicit alias or historical parent,8923.0,3998.0,2.23,20.6,78.10000000000001,88.2
+West Bengal,Hugli,West Bengal,Hoogli,explicit alias or historical parent,4966.0,3155.0,4.21,23.58,75.10000000000001,88.0
+West Bengal,Bankura,West Bengal,Bankura,direct normalized name,3193.0,6932.0,10.36,31.24,63.400000000000006,85.60000000000001
+West Bengal,Puruliya,West Bengal,Purulia,explicit alias or historical parent,2537.0,6227.0,18.27,18.29,55.6,83.9
+West Bengal,Haora,West Bengal,Howrah,explicit alias or historical parent,4262.0,1456.0,0.45,15.42,77.0,88.0
+West Bengal,Kolkata,West Bengal,Calcutta,explicit alias or historical parent,4573.0,194.0,0.21,6.01,80.9,91.5
+West Bengal,South Twenty Four Parganas,West Bengal,24 Pargana South,explicit alias or historical parent,6901.0,8487.0,1.23,32.12,69.4,84.80000000000001
+West Bengal,Paschim Medinipur,West Bengal,Medinipur,explicit alias or historical parent,5193.0,9349.0,8.31,16.4,74.9,85.60000000000001
+West Bengal,Purba Medinipur,West Bengal,Medinipur,explicit alias or historical parent,4354.0,4015.0,8.31,16.4,74.9,85.60000000000001
+Jharkhand,Garhwa,Jharkhand,Garhwa,direct normalized name,1021.0,4085.0,15.35,23.88,39.2,78.10000000000001
+Jharkhand,Chatra,Jharkhand,Chatra,direct normalized name,808.0,3837.0,4.11,31.56,43.6,79.0
+Jharkhand,Kodarma,Jharkhand,Kodarma,direct normalized name,541.0,1634.0,0.76,14.9,51.2,79.5
+Jharkhand,Giridih,Jharkhand,Giridih,direct normalized name,1905.0,4994.0,9.69,13.04,44.5,78.7
+Jharkhand,Deoghar,Jharkhand,Deoghar,direct normalized name,1114.0,2454.0,12.25,12.6,50.1,80.5
+Jharkhand,Godda,Jharkhand,Godda,direct normalized name,1048.0,2297.0,23.62,8.56,43.1,80.5
+Jharkhand,Sahibganj,Jharkhand,Sahibganj,direct normalized name,928.0,1916.0,29.15,6.44,37.6,79.10000000000001
+Jharkhand,Pakur,Jharkhand,Pakaur,explicit alias or historical parent,702.0,1898.0,44.59,3.27,30.6,79.5
+Jharkhand,Dhanbad,Jharkhand,Dhanbad,direct normalized name,1940.0,2039.0,8.46,15.98,67.0,84.0
+Jharkhand,Bokaro,Jharkhand,Bokaro,direct normalized name,1778.0,2888.0,12.3,13.3,62.1,83.60000000000001
+Jharkhand,Lohardaga,Jharkhand,Lohardaga,direct normalized name,365.0,1580.0,55.7,3.51,53.6,80.2
+Jharkhand,Purbi Singhbhum,Jharkhand,Purbi Singhbhum,direct normalized name,1983.0,3552.0,27.85,4.75,68.8,85.7
+Jharkhand,Palamu,Jharkhand,Palamu,direct normalized name,1503.0,4453.0,18.7,25.72,44.900000000000006,79.5
+Jharkhand,Latehar,Jharkhand,Palamu,explicit alias or historical parent,561.0,4144.0,18.7,25.72,44.900000000000006,79.5
+Jharkhand,Hazaribagh,Jharkhand,Hazaribagh,direct normalized name,1379.0,4292.0,6.890000000000001,17.240000000000002,54.900000000000006,80.4
+Jharkhand,Ramgarh,Jharkhand,Hazaribagh,explicit alias or historical parent,839.0,1334.0,20.3,11.09,63.1,83.10000000000001
+Jharkhand,Dumka,Jharkhand,Dumka,direct normalized name,1107.0,3781.0,44.76,6.05,46.400000000000006,82.0
+Jharkhand,Jamtara,Jharkhand,Dumka,explicit alias or historical parent,653.0,1862.0,31.64,9.55,50.5,81.7
+Jharkhand,Ranchi,Jharkhand,Ranchi,direct normalized name,2350.0,5064.0,36.16,5.2,66.9,83.80000000000001
+Jharkhand,Khunti,Jharkhand,Ranchi,explicit alias or historical parent,435.0,2677.0,72.39,5.04,51.400000000000006,81.7
+Jharkhand,Gumla,Jharkhand,Gumla,direct normalized name,832.0,5267.0,67.24,3.25,50.900000000000006,81.0
+Jharkhand,Simdega,Jharkhand,Gumla,explicit alias or historical parent,514.0,3777.0,70.16,7.71,53.0,82.4
+Jharkhand,Pashchimi Singhbhum,Jharkhand,Paschimi Singhbhum,explicit alias or historical parent,1213.0,7173.0,53.36,4.88,50.2,82.0
+Jharkhand,Saraikela-Kharsawan,Jharkhand,Paschimi Singhbhum,explicit alias or historical parent,838.0,2633.0,53.36,4.88,50.2,82.0
+Odisha,Bargarh,Odisha,Baragarh,explicit alias or historical parent,1346.0,5878.0,19.36,19.37,64.0,87.0
+Odisha,Jharsuguda,Odisha,Jharsuguda,direct normalized name,515.0,2164.0,32.92,17.06,69.0,86.7
+Odisha,Sambalpur,Odisha,Sambalpur,direct normalized name,923.0,6588.0,34.5,17.04,67.3,86.60000000000001
+Odisha,Debagarh,Odisha,Deogarh,explicit alias or historical parent,274.0,3012.0,33.6,15.37,60.400000000000006,84.5
+Odisha,Sundargarh,Odisha,Sundargarh,direct normalized name,1789.0,9692.0,50.19,8.620000000000001,64.9,85.5
+Odisha,Kendujhar,Odisha,Keonjhar,explicit alias or historical parent,1562.0,8376.0,44.5,11.62,59.2,84.4
+Odisha,Mayurbhanj,Odisha,Mayurbhanj,direct normalized name,2218.0,10451.0,56.6,7.68,51.900000000000006,83.60000000000001
+Odisha,Baleshwar,Odisha,Baleshwar,direct normalized name,1994.0,3676.0,11.28,18.84,70.60000000000001,85.4
+Odisha,Bhadrak,Odisha,Bhadrak,direct normalized name,1334.0,2531.0,1.88,21.5,73.9,85.60000000000001
+Odisha,Kendrapara,Odisha,Kendarpara,explicit alias or historical parent,1302.0,2566.0,0.52,20.52,76.80000000000001,86.60000000000001
+Odisha,Jagatsinghapur,Odisha,Jagatsinghpur,explicit alias or historical parent,1058.0,1739.0,2.19,20.07,77.9,88.0
+Odisha,Cuttack,Odisha,Cuttack,direct normalized name,2337.0,3823.0,3.5700000000000003,19.08,76.7,87.7
+Odisha,Jajapur,Odisha,Jajpur,explicit alias or historical parent,1624.0,2882.0,7.76,22.99,71.4,86.60000000000001
+Odisha,Dhenkanal,Odisha,Dhenkanal,direct normalized name,1065.0,4413.0,12.79,18.49,69.4,86.30000000000001
+Odisha,Anugul,Odisha,Angul,explicit alias or historical parent,1111.0,6320.0,11.67,17.2,68.8,85.60000000000001
+Odisha,Nayagarh,Odisha,Nayagarh,direct normalized name,865.0,3877.0,5.88,14.04,70.5,86.9
+Odisha,Khordha,Odisha,Khurda,explicit alias or historical parent,1844.0,2813.0,5.18,13.54,79.60000000000001,87.7
+Odisha,Puri,Odisha,Puri,direct normalized name,1503.0,3529.0,0.3,18.23,78.0,87.5
+Odisha,Ganjam,Odisha,Ganjam,direct normalized name,3156.0,8484.0,2.88,18.57,60.8,85.0
+Odisha,Gajapati,Odisha,Gajpati,explicit alias or historical parent,519.0,4235.0,50.78,7.5,41.3,82.10000000000001
+Odisha,Kandhamal,Odisha,Khandamal,explicit alias or historical parent,648.0,7943.0,51.96,16.89,52.7,81.9
+Odisha,Baudh,Odisha,Boudh,explicit alias or historical parent,373.0,3066.0,12.47,21.88,57.7,83.7
+Odisha,Subarnapur,Odisha,Sonepur,explicit alias or historical parent,542.0,2348.0,9.78,23.62,62.8,85.7
+Odisha,Balangir,Odisha,Bolangir,explicit alias or historical parent,1336.0,6399.0,20.63,16.92,55.7,85.7
+Odisha,Nuapada,Odisha,Nawapara,explicit alias or historical parent,530.0,3928.0,34.71,13.62,42.0,84.10000000000001
+Odisha,Kalahandi,Odisha,Kalahandi,direct normalized name,1335.0,7900.0,28.65,17.67,45.900000000000006,83.7
+Odisha,Rayagada,Odisha,Rayagada,direct normalized name,823.0,7384.0,55.76,13.92,36.1,82.5
+Odisha,Nabarangapur,Odisha,Nawrangpur,explicit alias or historical parent,1017.0,5405.0,55.03,14.1,33.9,81.80000000000001
+Odisha,Koraput,Odisha,Koraput,direct normalized name,1181.0,8656.0,49.620000000000005,13.04,35.7,83.0
+Odisha,Malkangiri,Odisha,Malkangiri,direct normalized name,504.0,5831.0,57.43,21.35,30.5,82.2
+Chhattisgarh,Koriya,Chhattisgarh,Koriya,direct normalized name,546.0,6548.0,44.35,8.22,63.1,82.9
+Chhattisgarh,Surguja,Chhattisgarh,Surguja,direct normalized name,1921.0,15765.0,54.6,4.8100000000000005,54.8,80.80000000000001
+Chhattisgarh,Jashpur,Chhattisgarh,Jashpur,direct normalized name,735.0,5867.0,63.24,4.9,63.8,83.5
+Chhattisgarh,Raigarh,Chhattisgarh,Raigarh,direct normalized name,1261.0,7037.0,35.38,14.2,70.2,84.10000000000001
+Chhattisgarh,Korba,Chhattisgarh,Korba,direct normalized name,943.0,6614.0,41.5,9.98,61.7,83.0
+Chhattisgarh,Janjgir - Champa,Chhattisgarh,Janjgir-Champa,explicit alias or historical parent,1311.0,3861.0,11.62,22.48,65.9,82.9
+Chhattisgarh,Bilaspur,Chhattisgarh,Bilaspur,direct normalized name,1992.0,8390.0,15.99,17.32,66.0,82.7
+Chhattisgarh,Kabeerdham,Chhattisgarh,Kawardha,explicit alias or historical parent,585.0,4166.0,20.86,12.72,55.2,81.0
+Chhattisgarh,Rajnandgaon,Chhattisgarh,Rajnandgaon,direct normalized name,1274.0,8171.0,26.63,9.93,77.2,83.10000000000001
+Chhattisgarh,Durg,Chhattisgarh,Durg,direct normalized name,2589.0,8431.0,12.41,12.79,75.60000000000001,84.4
+Chhattisgarh,Raipur,Chhattisgarh,Raipur + Dhamtari,explicit alias or historical parent,2779.0,12546.0,12.11,16.17,68.5,82.9
+Chhattisgarh,Mahasamund,Chhattisgarh,Mahasamud,explicit alias or historical parent,860.0,4701.0,27.03,12.13,67.0,84.10000000000001
+Chhattisgarh,Dhamtari,Chhattisgarh,Raipur + Dhamtari,explicit alias or historical parent,683.0,4159.0,26.25,6.99,74.9,83.5
+Chhattisgarh,Uttar Bastar Kanker,Chhattisgarh,Kanker,explicit alias or historical parent,642.0,7145.0,56.08,4.25,72.9,83.60000000000001
+Chhattisgarh,Bastar,Chhattisgarh,Bastar,direct normalized name,1153.0,10562.0,66.31,2.96,43.900000000000006,82.2
+Chhattisgarh,Narayanpur,Chhattisgarh,Bastar,explicit alias or historical parent,117.0,4911.0,72.42,3.16,37.0,81.9
+Chhattisgarh,Dakshin Bastar Dantewada,Chhattisgarh,Dantewara,explicit alias or historical parent,467.0,8603.0,78.52,3.36,30.200000000000003,81.5
+Chhattisgarh,Bijapur,Chhattisgarh,Dantewara,explicit alias or historical parent,231.0,8192.0,78.52,3.36,30.200000000000003,81.5
+Madhya Pradesh,Sheopur,Madhya Pradesh,Sheopur,direct normalized name,553.0,6663.0,21.53,16.16,46.400000000000006,79.9
+Madhya Pradesh,Morena,Madhya Pradesh,Morena,direct normalized name,1580.0,5129.0,0.81,21.08,64.7,81.30000000000001
+Madhya Pradesh,Bhind,Madhya Pradesh,Bhind,direct normalized name,1428.0,4536.0,0.47,21.48,70.5,82.2
+Madhya Pradesh,Gwalior,Madhya Pradesh,Gwaliar,explicit alias or historical parent,1632.0,4476.0,3.49,18.91,69.4,84.4
+Madhya Pradesh,Datia,Madhya Pradesh,Datia,direct normalized name,663.0,2888.0,6.390000000000001,21.87,65.3,81.60000000000001
+Madhya Pradesh,Shivpuri,Madhya Pradesh,Shivpuri,direct normalized name,1404.0,10007.0,11.19,18.78,58.900000000000006,80.4
+Madhya Pradesh,Tikamgarh,Madhya Pradesh,Tikamgarh,direct normalized name,1203.0,5025.0,4.32,24.29,55.7,80.9
+Madhya Pradesh,Chhatarpur,Madhya Pradesh,Chhatarpur,direct normalized name,1465.0,8775.0,3.5,23.26,53.3,80.4
+Madhya Pradesh,Panna,Madhya Pradesh,Panna,direct normalized name,855.0,6929.0,15.39,20.0,61.400000000000006,80.0
+Madhya Pradesh,Sagar,Madhya Pradesh,Sagar,direct normalized name,2003.0,10466.0,9.72,20.54,67.7,81.7
+Madhya Pradesh,Damoh,Madhya Pradesh,Damoh,direct normalized name,1072.0,7399.0,12.56,19.49,61.8,81.9
+Madhya Pradesh,Satna,Madhya Pradesh,Satna,direct normalized name,1861.0,7673.0,14.34,16.27,64.60000000000001,81.5
+Madhya Pradesh,Rewa,Madhya Pradesh,Rewa,direct normalized name,1967.0,6340.0,12.87,15.57,62.0,81.0
+Madhya Pradesh,Umaria,Madhya Pradesh,Umaria,direct normalized name,516.0,4700.0,44.04,6.8100000000000005,59.1,81.10000000000001
+Madhya Pradesh,Neemuch,Madhya Pradesh,Neemuch,direct normalized name,721.0,4451.0,8.51,12.55,66.2,84.0
+Madhya Pradesh,Mandsaur,Madhya Pradesh,Mandsaur,direct normalized name,1168.0,5336.0,3.17,17.93,70.3,83.4
+Madhya Pradesh,Ratlam,Madhya Pradesh,Ratlam,direct normalized name,1221.0,4821.0,22.09,11.94,69.0,83.2
+Madhya Pradesh,Ujjain,Madhya Pradesh,Ujjain,direct normalized name,1698.0,6144.0,3.11,24.72,70.9,83.7
+Madhya Pradesh,Shajapur,Madhya Pradesh,Shajapur,direct normalized name,1283.0,6219.0,2.74,21.98,70.9,81.80000000000001
+Madhya Pradesh,Dewas,Madhya Pradesh,Dewas,direct normalized name,1306.0,7184.0,16.45,18.26,60.900000000000006,82.30000000000001
+Madhya Pradesh,Dhar,Madhya Pradesh,Dhar,direct normalized name,1727.0,8147.0,54.77,6.46,52.3,80.5
+Madhya Pradesh,Indore,Madhya Pradesh,Indore,direct normalized name,2436.0,3792.0,6.65,15.75,75.2,85.0
+Madhya Pradesh,Khargone (West Nimar),Madhya Pradesh,Nimar West,explicit alias or historical parent,1508.0,8244.0,35.480000000000004,11.41,63.0,81.0
+Madhya Pradesh,Barwani,Madhya Pradesh,Barwani,direct normalized name,1061.0,5175.0,51.25,8.870000000000001,52.3,79.5
+Madhya Pradesh,Rajgarh,Madhya Pradesh,Rajgarh,direct normalized name,1254.0,6253.0,3.78,17.44,53.7,81.5
+Madhya Pradesh,Vidisha,Madhya Pradesh,Vidisha,direct normalized name,1205.0,7225.0,4.88,19.85,61.8,81.0
+Madhya Pradesh,Bhopal,Madhya Pradesh,Bhopal,direct normalized name,1815.0,2715.0,3.29,14.0,74.60000000000001,84.30000000000001
+Madhya Pradesh,Sehore,Madhya Pradesh,Sehore,direct normalized name,1067.0,6544.0,10.76,20.49,63.1,81.0
+Madhya Pradesh,Raisen,Madhya Pradesh,Raisen,direct normalized name,1104.0,8414.0,15.74,16.37,72.2,81.10000000000001
+Madhya Pradesh,Betul,Madhya Pradesh,Betul,direct normalized name,1386.0,10149.0,39.41,10.58,66.4,83.2
+Madhya Pradesh,Harda,Madhya Pradesh,Harda,direct normalized name,474.0,3317.0,26.63,16.06,66.5,81.7
+Madhya Pradesh,Hoshangabad,Madhya Pradesh,Hoshangabad,direct normalized name,1081.0,6676.0,15.13,15.75,70.0,83.80000000000001
+Madhya Pradesh,Katni,Madhya Pradesh,Katni,direct normalized name,1060.0,5127.0,23.07,11.48,63.6,82.10000000000001
+Madhya Pradesh,Jabalpur,Madhya Pradesh,Jabalpur,direct normalized name,2136.0,4923.0,15.01,12.73,75.7,85.7
+Madhya Pradesh,Narsimhapur,Madhya Pradesh,Narshimhapur,explicit alias or historical parent,940.0,5135.0,12.87,17.81,69.7,82.9
+Madhya Pradesh,Dindori,Madhya Pradesh,Dindori,direct normalized name,581.0,5666.0,64.48,5.83,54.2,83.2
+Madhya Pradesh,Mandla,Madhya Pradesh,Mandla,direct normalized name,875.0,7606.0,57.23,4.62,59.6,83.9
+Madhya Pradesh,Chhindwara,Madhya Pradesh,Chhindwara,direct normalized name,1819.0,11745.0,34.68,11.58,65.8,83.9
+Madhya Pradesh,Seoni,Madhya Pradesh,Seoni,direct normalized name,1166.0,8774.0,36.78,10.34,65.60000000000001,83.10000000000001
+Madhya Pradesh,Balaghat,Madhya Pradesh,Balaghat,direct normalized name,1497.0,9253.0,21.8,7.75,68.7,84.60000000000001
+Madhya Pradesh,Guna,Madhya Pradesh,Guna,direct normalized name,978.0,6435.0,12.22,17.61,59.5,80.4
+Madhya Pradesh,Ashoknagar,Madhya Pradesh,Guna,explicit alias or historical parent,687.0,4826.0,12.22,17.61,59.5,80.4
+Madhya Pradesh,Shahdol,Madhya Pradesh,Shahdol,direct normalized name,882.0,5693.0,44.48,7.36,58.7,83.0
+Madhya Pradesh,Anuppur,Madhya Pradesh,Shahdol,explicit alias or historical parent,666.0,3848.0,44.48,7.36,58.7,83.0
+Madhya Pradesh,Sidhi,Madhya Pradesh,Sidhi,direct normalized name,900.0,4675.0,29.89,11.85,52.3,79.4
+Madhya Pradesh,Singrauli,Madhya Pradesh,Sidhi,explicit alias or historical parent,920.0,5764.0,29.89,11.85,52.3,79.4
+Madhya Pradesh,Jhabua,Madhya Pradesh,Jhabua,direct normalized name,784.0,3509.0,85.32000000000001,1.75,41.400000000000006,77.30000000000001
+Madhya Pradesh,Alirajpur,Madhya Pradesh,Jhabua,explicit alias or historical parent,610.0,3317.0,88.81,4.19,31.1,76.80000000000001
+Madhya Pradesh,Khandwa (East Nimar),Madhya Pradesh,Nimar East,explicit alias or historical parent,1008.0,7298.0,29.68,11.07,61.8,81.9
+Madhya Pradesh,Burhanpur,Madhya Pradesh,Nimar East,explicit alias or historical parent,634.0,3238.0,29.68,11.07,61.8,81.9
+Maharashtra,Nandurbar,Maharashtra,Nandurbar,direct normalized name,1308.0,5906.0,65.53,3.16,55.8,82.4
+Maharashtra,Dhule,Maharashtra,Dhule,direct normalized name,1708.0,7143.0,25.97,6.390000000000001,71.60000000000001,85.10000000000001
+Maharashtra,Jalgaon,Maharashtra,Jalgaon,direct normalized name,3653.0,11883.0,11.84,7.79,75.4,85.7
+Maharashtra,Buldana,Maharashtra,Buldana,direct normalized name,2232.0,9704.0,5.16,10.82,75.8,84.80000000000001
+Maharashtra,Akola,Maharashtra,Akola,direct normalized name,1630.0,5445.0,9.91,13.73,82.0,85.9
+Maharashtra,Washim,Maharashtra,Washim,direct normalized name,1021.0,5131.0,6.95,15.94,73.4,84.30000000000001
+Maharashtra,Amravati,Maharashtra,Amravati,direct normalized name,2606.0,12228.0,13.68,17.13,82.5,86.30000000000001
+Maharashtra,Wardha,Maharashtra,Wardha,direct normalized name,1237.0,6308.0,12.49,12.83,80.10000000000001,87.4
+Maharashtra,Nagpur,Maharashtra,Nagpur,direct normalized name,4059.0,9894.0,10.93,17.12,84.0,87.10000000000001
+Maharashtra,Bhandara,Maharashtra,Bhandara,direct normalized name,1136.0,4080.0,8.6,17.77,78.5,86.4
+Maharashtra,Gondiya,Maharashtra,Gondiya,direct normalized name,1201.0,5200.0,16.36,13.97,78.5,85.7
+Maharashtra,Gadchiroli,Maharashtra,Gadchiroli,direct normalized name,970.0,14310.0,38.31,11.22,60.1,84.10000000000001
+Maharashtra,Chandrapur,Maharashtra,Chandrapur,direct normalized name,2071.0,11342.0,18.12,14.34,73.2,86.5
+Maharashtra,Yavatmal,Maharashtra,Yavatmal,direct normalized name,2423.0,13595.0,19.26,10.28,73.60000000000001,85.0
+Maharashtra,Nanded,Maharashtra,Nanded,direct normalized name,2845.0,10598.0,8.82,17.32,67.8,83.4
+Maharashtra,Hingoli,Maharashtra,Hingoli,direct normalized name,981.0,4711.0,8.8,10.2,66.3,83.10000000000001
+Maharashtra,Parbhani,Maharashtra,Parbhani,direct normalized name,1528.0,6349.0,2.3000000000000003,9.98,66.10000000000001,83.5
+Maharashtra,Jalna,Maharashtra,Jalna,direct normalized name,1607.0,7636.0,2.0,11.23,64.4,83.80000000000001
+Maharashtra,Aurangabad,Maharashtra,Aurangabad,direct normalized name,2903.0,10173.0,3.46,12.98,72.9,83.80000000000001
+Maharashtra,Nashik,Maharashtra,Nashik,direct normalized name,4982.0,15478.0,23.92,8.540000000000001,74.4,84.2
+Maharashtra,Thane,Maharashtra,Thane,direct normalized name,7906.0,9554.0,14.75,4.18,80.7,85.9
+Maharashtra,Mumbai Suburban,Maharashtra,Mumbai Suburb,explicit alias or historical parent,8640.0,403.0,0.8200000000000001,4.65,86.9,88.10000000000001
+Maharashtra,Mumbai,Maharashtra,Mumbai City,explicit alias or historical parent,3338.0,77.0,0.62,5.5,86.4,89.80000000000001
+Maharashtra,Raigarh,Maharashtra,Raigarh,direct normalized name,2208.0,6968.0,12.19,2.43,77.0,85.7
+Maharashtra,Pune,Maharashtra,Pune,direct normalized name,7225.0,15636.0,3.62,10.53,80.5,86.60000000000001
+Maharashtra,Ahmadnagar,Maharashtra,Ahmadnagar,direct normalized name,4015.0,17099.0,7.51,12.0,75.3,85.4
+Maharashtra,Bid,Maharashtra,Bid,direct normalized name,2161.0,10641.0,1.12,13.01,68.0,84.5
+Maharashtra,Latur,Maharashtra,Latur,direct normalized name,2080.0,7131.0,2.3000000000000003,19.43,71.5,84.30000000000001
+Maharashtra,Osmanabad,Maharashtra,Osmanabad,direct normalized name,1485.0,7614.0,1.87,16.53,69.0,85.0
+Maharashtra,Solapur,Maharashtra,Sholapur,explicit alias or historical parent,3850.0,14811.0,1.79,15.02,71.2,85.2
+Maharashtra,Satara,Maharashtra,Satara,direct normalized name,2793.0,10614.0,0.78,8.76,78.2,86.9
+Maharashtra,Ratnagiri,Maharashtra,Ratnagiri,direct normalized name,1690.0,8281.0,1.18,1.44,75.0,86.10000000000001
+Maharashtra,Sindhudurg,Maharashtra,Sindhudurg,direct normalized name,862.0,5071.0,0.5700000000000001,4.44,80.30000000000001,87.9
+Maharashtra,Kolhapur,Maharashtra,Kolhapur,direct normalized name,3519.0,7756.0,0.61,12.76,76.9,87.2
+Maharashtra,Sangli,Maharashtra,Sangli,direct normalized name,2577.0,8518.0,0.6900000000000001,12.13,76.60000000000001,86.80000000000001
+Andhra Pradesh,Adilabad,Andhra Pradesh,Adilabad,direct normalized name,2466.0,16107.0,16.740000000000002,18.54,52.7,84.9
+Andhra Pradesh,Nizamabad,Andhra Pradesh,Nizamabad,direct normalized name,2305.0,8035.0,7.07,14.84,52.0,85.60000000000001
+Andhra Pradesh,Karimnagar,Andhra Pradesh,Karimnagar,direct normalized name,3220.0,11869.0,2.6,18.62,54.900000000000006,86.7
+Andhra Pradesh,Medak,Andhra Pradesh,Medak,direct normalized name,2669.0,9447.0,5.04,17.580000000000002,51.6,84.9
+Andhra Pradesh,Hyderabad,Andhra Pradesh,Hyderabad + Rangareddy,explicit alias or historical parent,3830.0,181.0,0.9,8.02,78.80000000000001,87.30000000000001
+Andhra Pradesh,Rangareddy,Andhra Pradesh,Hyderabad + Rangareddy,explicit alias or historical parent,3572.0,7548.0,4.09,14.55,66.2,86.0
+Andhra Pradesh,Mahbubnagar,Andhra Pradesh,Mahboobnagar,explicit alias or historical parent,3500.0,18419.0,7.930000000000001,17.1,44.400000000000006,84.4
+Andhra Pradesh,Nalgonda,Andhra Pradesh,Nalgonda,direct normalized name,3247.0,14252.0,10.55,17.73,57.2,86.0
+Andhra Pradesh,Warangal,Andhra Pradesh,Warangal,direct normalized name,3044.0,12802.0,14.1,16.990000000000002,57.1,86.10000000000001
+Andhra Pradesh,Khammam,Andhra Pradesh,Khammam,direct normalized name,2518.0,15851.0,26.47,16.55,56.900000000000006,86.4
+Andhra Pradesh,Srikakulam,Andhra Pradesh,Srikakulam,direct normalized name,2485.0,5635.0,5.96,9.05,55.3,86.80000000000001
+Andhra Pradesh,Vizianagaram,Andhra Pradesh,Vizianagaram,direct normalized name,2233.0,6084.0,9.55,10.58,51.1,86.80000000000001
+Andhra Pradesh,Visakhapatnam,Andhra Pradesh,Vishakapatnam,explicit alias or historical parent,3670.0,11437.0,14.55,7.6,60.0,87.10000000000001
+Andhra Pradesh,East Godavari,Andhra Pradesh,East Godawari,explicit alias or historical parent,4662.0,10777.0,3.91,17.990000000000002,65.5,87.5
+Andhra Pradesh,West Godavari,Andhra Pradesh,West Godawari,explicit alias or historical parent,3796.0,7827.0,2.54,19.17,73.5,87.9
+Andhra Pradesh,Krishna,Andhra Pradesh,Krishna,direct normalized name,3975.0,8766.0,2.57,17.830000000000002,68.8,88.10000000000001
+Andhra Pradesh,Guntur,Andhra Pradesh,Guntur,direct normalized name,4460.0,11333.0,4.66,18.32,62.5,87.9
+Andhra Pradesh,Prakasam,Andhra Pradesh,Prakasham,explicit alias or historical parent,2943.0,17651.0,3.86,21.29,57.400000000000006,87.30000000000001
+Andhra Pradesh,Sri Potti Sriramulu Nellore,Andhra Pradesh,Nellore,explicit alias or historical parent,2615.0,13191.0,9.08,22.0,65.10000000000001,87.7
+Andhra Pradesh,Y.S.R.,Andhra Pradesh,Cuddapah,explicit alias or historical parent,2480.0,15445.0,2.36,15.74,62.8,86.9
+Andhra Pradesh,Kurnool,Andhra Pradesh,Kurnool,direct normalized name,3523.0,17533.0,1.97,17.81,53.2,84.80000000000001
+Andhra Pradesh,Anantapur,Andhra Pradesh,Anantapur,direct normalized name,3567.0,19102.0,3.46,16.45,61.5,86.9
+Andhra Pradesh,Chittoor,Andhra Pradesh,Chittoor,direct normalized name,3664.0,15060.0,3.42,18.75,66.8,87.0

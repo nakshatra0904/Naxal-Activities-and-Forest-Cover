@@ -1,0 +1,162 @@
+state,district_label,fsi_state,fsi_2001_unit,match_status,events,victim_deaths
+Chhattisgarh,Bijapur,Chhattisgarh,Dantewara,historical split,505,567
+Chhattisgarh,Dantewada,Chhattisgarh,Dantewara,name alias,307,643
+Maharashtra,Gadchiroli,Maharashtra,Gadchiroli,direct label,277,319
+Chhattisgarh,Sukma,Chhattisgarh,Dantewara,historical split,275,278
+West Bengal,West Midnapore,West Bengal,Medinipur,historical split,232,280
+Odisha,Malkangiri,Odisha,Malkangiri,direct label,161,200
+Chhattisgarh,Narayanpur,Chhattisgarh,Bastar,historical split,145,149
+Chhattisgarh,Kanker,Chhattisgarh,Kanker,direct label,126,132
+Chhattisgarh,Bastar,Chhattisgarh,Bastar,direct label,90,144
+Odisha,Koraput,Odisha,Koraput,direct label,89,115
+Jharkhand,West Singhbhum,Jharkhand,Paschimi Singhbhum,name alias,87,108
+Andhra Pradesh,Visakhapatnam,Andhra Pradesh,Vishakapatnam,name alias,78,65
+Chhattisgarh,Rajnandgaon,Chhattisgarh,Rajnandgaon,direct label,61,86
+Jharkhand,Latehar,Jharkhand,Palamu,historical split,57,104
+Bihar,Gaya,Bihar,Gaya,direct label,56,71
+Jharkhand,Gumla,Jharkhand,Gumla,direct label,52,63
+Andhra Pradesh,Khammam,Andhra Pradesh,Khammam,direct label,51,35
+Bihar,Jamui,Bihar,Jamui,direct label,48,79
+Odisha,Kandhamal,Odisha,Khandamal,name alias,44,36
+Jharkhand,Giridih,Jharkhand,Giridih,direct label,42,76
+Jharkhand,East Singhbhum,Jharkhand,Purbi Singhbhum,name alias,41,44
+Jharkhand,Khunti,Jharkhand,Ranchi,historical split,39,49
+Jharkhand,Chatra,Jharkhand,Chatra,direct label,36,30
+West Bengal,Purulia,West Bengal,Purulia,direct label,35,50
+Chhattisgarh,Unspecified,Chhattisgarh,,excluded: no district/state,34,84
+Jharkhand,Palamu,Jharkhand,Palamu,direct label,34,38
+Jharkhand,Bokaro,Jharkhand,Bokaro,direct label,32,47
+Chhattisgarh,Kondagaon,Chhattisgarh,Bastar,historical split,32,20
+Jharkhand,Ranchi,Jharkhand,Ranchi,direct label,31,43
+Bihar,Aurangabad,Bihar,Aurangabad,direct label,30,67
+Bihar,Munger,Bihar,Munger,direct label,26,46
+Madhya Pradesh,Balaghat,Madhya Pradesh,Balaghat,direct label,25,11
+Odisha,Kalahandi,Odisha,Kalahandi,direct label,23,17
+Jharkhand,Hazaribagh,Jharkhand,Hazaribagh,direct label,21,11
+Bihar,Lakhisarai,Bihar,Lakhisarai,direct label,20,27
+Odisha,Nuapada,Odisha,Nawapara,name alias,20,27
+Odisha,Rayagada,Odisha,Rayagada,direct label,20,13
+Andhra Pradesh,Warangal,Andhra Pradesh,Warangal,direct label,20,7
+Jharkhand,Unspecified,Jharkhand,,excluded: no district/state,19,57
+Jharkhand,Lohardaga,Jharkhand,Lohardaga,direct label,18,24
+Jharkhand,Seraikela-Kharsawan,Jharkhand,Paschimi Singhbhum,historical split,18,17
+Odisha,Sundergarh,Odisha,Sundargarh,name alias,18,16
+Jharkhand,Garhwa,Jharkhand,Garhwa,direct label,17,30
+West Bengal,Bankura,West Bengal,Bankura,direct label,17,22
+Andhra Pradesh,Prakasam,Andhra Pradesh,Prakasham,name alias,16,6
+Chhattisgarh,Surguja,Chhattisgarh,Surguja,direct label,15,11
+Jharkhand,Simdega,Jharkhand,Gumla,historical split,15,10
+Unspecified,Unspecified,Unspecified,,excluded: no district/state,14,49
+Bihar,Unspecified,Bihar,,excluded: no district/state,14,39
+Bihar,East Champaran,Bihar,Purbi Champaran,name alias,14,22
+Chhattisgarh,Gariaband,Chhattisgarh,Raipur + Dhamtari,historical split,14,8
+Odisha,Bolangir,Odisha,Bolangir,direct label,14,4
+Andhra Pradesh,Unspecified,Andhra Pradesh,,excluded: no district/state,13,14
+Andhra Pradesh,Mahbubnagar,Andhra Pradesh,Mahboobnagar,name alias,13,10
+Telangana,Bhadradri Kothagudem,Andhra Pradesh,Khammam,historical split,13,4
+Jharkhand,Dumka,Jharkhand,Dumka,direct label,12,25
+Chhattisgarh,Dhamtari,Chhattisgarh,Raipur + Dhamtari,name alias,12,15
+Andhra Pradesh,Guntur,Andhra Pradesh,Guntur,direct label,11,11
+Andhra Pradesh,East Godavari,Andhra Pradesh,East Godawari,name alias,11,6
+Maharashtra,Gondia,Maharashtra,Gondiya,name alias,10,15
+Odisha,Keonjhar,Odisha,Keonjhar,direct label,10,9
+Odisha,Nabarangpur,Odisha,Nawrangpur,name alias,10,9
+Bihar,Rohtas,Bihar,Rohtas,direct label,9,15
+Bihar,Muzaffarpur,Bihar,Muzaffarpur,direct label,9,12
+Odisha,Unspecified,Odisha,,excluded: no district/state,9,10
+Bihar,Banka,Bihar,Banka,direct label,8,10
+Andhra Pradesh,Nalgonda,Andhra Pradesh,Nalgonda,direct label,8,7
+Andhra Pradesh,Karimnagar,Andhra Pradesh,Karimnagar,direct label,8,6
+Odisha,Bargarh,Odisha,Baragarh,name alias,8,4
+West Bengal,Unspecified,West Bengal,,excluded: no district/state,7,20
+Andhra Pradesh,Vizianagaram,Andhra Pradesh,Vizianagaram,direct label,7,4
+Bihar,Nawada,Bihar,Nawada,direct label,6,13
+Telangana,Mulugu,Andhra Pradesh,,excluded: unresolved boundary/label,6,8
+Odisha,Sundargarh,Odisha,Sundargarh,direct label,6,6
+Andhra Pradesh,Anantapur,Andhra Pradesh,Anantapur,direct label,6,1
+Andhra Pradesh,Kurnool,Andhra Pradesh,Kurnool,direct label,5,9
+Bihar,Vaishali,Bihar,Vaishali,direct label,5,9
+Odisha,Mayurbhanj,Odisha,Mayurbhanj,direct label,5,7
+Chhattisgarh,Raipur,Chhattisgarh,Raipur + Dhamtari,name alias,5,4
+Karnataka,Chikmagalur,Karnataka,,excluded: no district/state,5,3
+Odisha,Deogarh,Odisha,Deogarh,direct label,5,3
+Andhra Pradesh,Cuddapah,Andhra Pradesh,Cuddapah,direct label,5,2
+Odisha,Gajapati,Odisha,Gajpati,name alias,4,11
+Odisha,Sambalpur,Odisha,Sambalpur,direct label,4,8
+Jharkhand,Dhanbad,Jharkhand,Dhanbad,direct label,4,4
+West Bengal,Birbhum,West Bengal,Birbhum,direct label,4,4
+Maharashtra,Unspecified,Maharashtra,,excluded: no district/state,4,3
+Telangana,Khammam,Andhra Pradesh,Khammam,direct label,4,3
+Andhra Pradesh,Alluri Sitharama Raju,Andhra Pradesh,,excluded: unresolved boundary/label,4,1
+Uttar Pradesh,Sonbhadra,Uttar Pradesh,Sonbhadra,direct label,4,1
+Andhra Pradesh,Adilabad,Andhra Pradesh,Adilabad,direct label,4,0
+Chhattisgarh,Kabirdham,Chhattisgarh,Kawardha,name alias,4,0
+Bihar,Sheohar,Bihar,Sheohar,direct label,3,9
+Bihar,Jehanabad,Bihar,Jehanabad,direct label,3,5
+Chhattisgarh,Mohla-Manpur-Ambagarh Chowki,Chhattisgarh,Rajnandgaon,historical split,3,2
+Chhattisgarh,Raigarh,Chhattisgarh,Raigarh,direct label,3,2
+Karnataka,Udupi,Karnataka,,excluded: no district/state,3,2
+Madhya Pradesh,Mandla,Madhya Pradesh,Mandla,direct label,3,1
+Jharkhand,Koderma,Jharkhand,Kodarma,name alias,3,0
+Kerala,Wayanad,Kerala,,excluded: no district/state,3,0
+Andhra Pradesh,Saran,Andhra Pradesh,,excluded: inconsistent state/district,2,4
+Jharkhand,Godda,Jharkhand,Godda,direct label,2,4
+Bihar,Sitamarhi,Bihar,Sitamarhi,direct label,2,3
+Chhattisgarh,Durg,Chhattisgarh,Durg,direct label,2,3
+Chhattisgarh,Mahasamund,Chhattisgarh,Mahasamud,name alias,2,3
+Odisha,Dhenkanal,Odisha,Dhenkanal,direct label,2,3
+Bihar,Begusarai,Bihar,Begusarai,direct label,2,2
+Odisha,Angul,Odisha,Angul,direct label,2,2
+Andhra Pradesh,Nizamabad,Andhra Pradesh,Nizamabad,direct label,2,1
+Bihar,Kaimur (Bhabhua),Bihar,Bhabua,name alias,2,1
+Bihar,Rohtas (Sasaram),Bihar,Rohtas,name alias,2,1
+Bihar,West Champaran (Bettiah),Bihar,Paschimi Champaran,name alias,2,1
+Chhattisgarh,Balrampur,Chhattisgarh,Surguja,historical split,2,1
+Karnataka,Dakshina Kannada,Karnataka,,excluded: no district/state,2,1
+Telangana,Warangal,Andhra Pradesh,Warangal,direct label,2,0
+West Bengal,Darjeeling,West Bengal,Darjeeling,direct label,2,0
+Maharashtra,Nagpur,Maharashtra,Nagpur,direct label,1,16
+Odisha,Nayagarh,Odisha,Nayagarh,direct label,1,16
+Karnataka,Tumkur,Karnataka,,excluded: no district/state,1,6
+Andhra Pradesh,Nellore,Andhra Pradesh,Nellore,direct label,1,3
+Bihar,Nalanda,Bihar,Nalanda,direct label,1,2
+Chhattisgarh,Jashpur,Chhattisgarh,Jashpur,direct label,1,2
+Jharkhand,Pakur,Jharkhand,Pakaur,name alias,1,2
+Andhra Pradesh,Srikakulam,Andhra Pradesh,Srikakulam,direct label,1,1
+Bihar,Buxar,Bihar,Buxar,direct label,1,1
+Bihar,Khagaria,Bihar,Khagaria,direct label,1,1
+Bihar,Madhubani,Bihar,Madhubani,direct label,1,1
+Jharkhand,Jamtara,Jharkhand,Dumka,historical split,1,1
+Jharkhand,Ramgarh,Jharkhand,Hazaribagh,historical split,1,1
+Karnataka,Shimoga,Karnataka,,excluded: no district/state,1,1
+Karnataka,Unspecified,Karnataka,,excluded: no district/state,1,1
+Madhya Pradesh,Bhopal,Madhya Pradesh,Bhopal,direct label,1,1
+National Capital territory,Unspecified,National Capital territory,,excluded: no district/state,1,1
+Telangana,Adilabad,Andhra Pradesh,Adilabad,direct label,1,1
+Telangana,Mahbubnagar,Andhra Pradesh,Mahboobnagar,name alias,1,1
+Telangana,Unspecified,Andhra Pradesh,,excluded: no district/state,1,1
+Uttar Pradesh,Ballia,Uttar Pradesh,Ballia,direct label,1,1
+West Bengal,Bardhaman,West Bengal,Bardhman,name alias,1,1
+West Bengal,East Midnapore,West Bengal,Medinipur,historical split,1,1
+West Bengal,Nadia,West Bengal,Nadia,direct label,1,1
+West Bengal,South 24 Parganas,West Bengal,24 Pargana South,name alias,1,1
+West Bengal,Uttar Dinajpur,West Bengal,Uttar Dinajpur,direct label,1,1
+Andhra Pradesh,Hyderabad,Andhra Pradesh,Hyderabad + Rangareddy,name alias,1,0
+Assam,Kokrajhar,Assam,,excluded: no district/state,1,0
+Assam,Tinsukia,Assam,,excluded: no district/state,1,0
+Bihar,Darbhanga,Bihar,Darbhanga,direct label,1,0
+Bihar,Saran,Bihar,Saran,direct label,1,0
+Chhattisgarh,Bilaspur,Chhattisgarh,Bilaspur,direct label,1,0
+Chhattisgarh,Koriya,Chhattisgarh,Koriya,direct label,1,0
+Kerala,Malappuram,Kerala,,excluded: no district/state,1,0
+Kerala,Palakkad,Kerala,,excluded: no district/state,1,0
+Madhya Pradesh,Unspecified,Madhya Pradesh,,excluded: no district/state,1,0
+Odisha,Boudh,Odisha,Boudh,direct label,1,0
+Odisha,Ganjam,Odisha,Ganjam,direct label,1,0
+Odisha,Jajpur,Odisha,Jajpur,direct label,1,0
+Odisha,Khordha,Odisha,Khurda,name alias,1,0
+Tamil Nadu,Dindigul,Tamil Nadu,,excluded: no district/state,1,0
+Telangana,Kumarambhem,Andhra Pradesh,Adilabad,historical split,1,0
+Uttar Pradesh,Chandauli,Uttar Pradesh,Chandauli,direct label,1,0
+Uttar Pradesh,Mirzapur,Uttar Pradesh,Mirzapur,direct label,1,0
+Uttar Pradesh,Varanasi,Uttar Pradesh,Varanasi,direct label,1,0

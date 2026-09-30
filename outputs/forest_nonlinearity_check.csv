@@ -1,0 +1,2 @@
+model,n,forest10_beta,forest10_sq_beta,forest10_sq_p,aic_quadratic,aic_linear
+Poisson quadratic: full controls + terrain,289,0.47213332780650585,-0.02218880081666082,0.43197139093235326,3964.8293614574823,3978.6913204837165

@@ -1,0 +1,293 @@
+shape_index,shape_state,shape_district,state,fsi_2001_unit,match_status
+1,Andhra Pradesh,Anantapur,Andhra Pradesh,Anantapur,direct normalized name
+3,Orissa,Anugul,Odisha,Angul,explicit alias or historical parent
+4,Bihar,Araria,Bihar,Araria,direct normalized name
+6,Uttar Pradesh,Auraiya,Uttar Pradesh,Orraiya,explicit alias or historical parent
+7,Bihar,Aurangabad,Bihar,Aurangabad,direct normalized name
+8,Maharashtra,Aurangabad,Maharashtra,Aurangabad,direct normalized name
+9,Uttar Pradesh,Azamgarh,Uttar Pradesh,Azamgarh,direct normalized name
+10,Uttar Pradesh,Budaun,Uttar Pradesh,Budaun,direct normalized name
+14,Andhra Pradesh,Adilabad,Andhra Pradesh,Adilabad,direct normalized name
+15,Uttar Pradesh,Agra,Uttar Pradesh,Agra,direct normalized name
+17,Maharashtra,Ahmadnagar,Maharashtra,Ahmadnagar,direct normalized name
+20,Maharashtra,Akola,Maharashtra,Akola,direct normalized name
+22,Uttar Pradesh,Aligarh,Uttar Pradesh,Aligarh,direct normalized name
+23,Uttar Pradesh,Allahabad,Uttar Pradesh,Allahabad,direct normalized name
+26,Uttar Pradesh,Ambedkar Nagar,Uttar Pradesh,Ambedkar Nagar,direct normalized name
+27,Maharashtra,Amravati,Maharashtra,Amravati,direct normalized name
+31,Bihar,Banka,Bihar,Banka,direct normalized name
+34,West Bengal,Barddhaman,West Bengal,Bardhman,explicit alias or historical parent
+35,Uttar Pradesh,Bareilly,Uttar Pradesh,Bareilly,direct normalized name
+38,Orissa,Bhadrak,Odisha,Bhadrak,direct normalized name
+39,Bihar,Bhagalpur,Bihar,Bhagalpur,direct normalized name
+42,Madhya Pradesh,Bhind,Madhya Pradesh,Bhind,direct normalized name
+43,Madhya Pradesh,Bhopal,Madhya Pradesh,Bhopal,direct normalized name
+44,Maharashtra,Bid,Maharashtra,Bid,direct normalized name
+47,Uttar Pradesh,Bijnor,Uttar Pradesh,Bijnor,direct normalized name
+50,West Bengal,Birbhum,West Bengal,Birbhum,direct normalized name
+52,Jharkhand,Bokaro,Jharkhand,Bokaro,direct normalized name
+54,Madhya Pradesh,Barwani,Madhya Pradesh,Barwani,direct normalized name
+55,Chhattisgarh,Bastar,Chhattisgarh,Bastar,direct normalized name
+56,Uttar Pradesh,Basti,Uttar Pradesh,Basti,direct normalized name
+58,Orissa,Baudh,Odisha,Boudh,explicit alias or historical parent
+59,Bihar,Begusarai,Bihar,Begusarai,direct normalized name
+62,Madhya Pradesh,Betul,Madhya Pradesh,Betul,direct normalized name
+63,Maharashtra,Bhandara,Maharashtra,Bhandara,direct normalized name
+65,Uttar Pradesh,Baghpat,Uttar Pradesh,Bagpat,explicit alias or historical parent
+66,Uttar Pradesh,Bahraich,Uttar Pradesh,Bahraich,direct normalized name
+67,Madhya Pradesh,Balaghat,Madhya Pradesh,Balaghat,direct normalized name
+68,Orissa,Balangir,Odisha,Bolangir,explicit alias or historical parent
+69,Orissa,Baleshwar,Odisha,Baleshwar,direct normalized name
+70,Uttar Pradesh,Ballia,Uttar Pradesh,Ballia,direct normalized name
+71,Uttar Pradesh,Balrampur,Uttar Pradesh,Balrampur,direct normalized name
+73,Uttar Pradesh,Banda,Uttar Pradesh,Banda,direct normalized name
+75,West Bengal,Bankura,West Bengal,Bankura,direct normalized name
+76,Uttar Pradesh,Barabanki,Uttar Pradesh,Barabanki,direct normalized name
+77,Orissa,Bargarh,Odisha,Baragarh,explicit alias or historical parent
+79,Maharashtra,Buldana,Maharashtra,Buldana,direct normalized name
+85,Maharashtra,Chandrapur,Maharashtra,Chandrapur,direct normalized name
+87,Madhya Pradesh,Chhatarpur,Madhya Pradesh,Chhatarpur,direct normalized name
+88,Madhya Pradesh,Chhindwara,Madhya Pradesh,Chhindwara,direct normalized name
+91,Uttar Pradesh,Chitrakoot,Uttar Pradesh,Chitrkoot,explicit alias or historical parent
+93,Andhra Pradesh,Chittoor,Andhra Pradesh,Chittoor,direct normalized name
+96,Uttar Pradesh,Chandauli,Uttar Pradesh,Chandauli,direct normalized name
+102,Bihar,Saran,Bihar,Saran,direct normalized name
+105,Madhya Pradesh,Dewas,Madhya Pradesh,Dewas,direct normalized name
+107,Bihar,Katihar,Bihar,Katihar,direct normalized name
+108,Madhya Pradesh,Katni,Madhya Pradesh,Katni,direct normalized name
+109,Orissa,Kendrapara,Odisha,Kendarpara,explicit alias or historical parent
+110,Orissa,Kendujhar,Odisha,Keonjhar,explicit alias or historical parent
+111,Madhya Pradesh,Datia,Madhya Pradesh,Datia,direct normalized name
+112,Orissa,Debagarh,Odisha,Deogarh,explicit alias or historical parent
+113,Uttar Pradesh,Deoria,Uttar Pradesh,Deoria,direct normalized name
+114,Jharkhand,Deoghar,Jharkhand,Deoghar,direct normalized name
+115,Andhra Pradesh,Cuddapah,Andhra Pradesh,Cuddapah,direct normalized name
+116,Orissa,Cuttack,Odisha,Cuttack,direct normalized name
+119,West Bengal,Dakshin Dinajpur,West Bengal,Dakshin Dinajpur,direct normalized name
+122,Madhya Pradesh,Damoh,Madhya Pradesh,Damoh,direct normalized name
+123,Chhattisgarh,Dantewada,Chhattisgarh,Dantewara,explicit alias or historical parent
+124,Bihar,Darbhanga,Bihar,Darbhanga,direct normalized name
+125,West Bengal,Darjiling,West Bengal,Darjeeling,explicit alias or historical parent
+131,Chhattisgarh,Dhamtari,Chhattisgarh,Raipur + Dhamtari,explicit alias or historical parent
+132,Jharkhand,Dhanbad,Jharkhand,Dhanbad,direct normalized name
+133,Madhya Pradesh,Dhar,Madhya Pradesh,Dhar,direct normalized name
+138,Orissa,Dhenkanal,Odisha,Dhenkanal,direct normalized name
+140,Maharashtra,Dhule,Maharashtra,Dhule,direct normalized name
+146,Jharkhand,Dumka,Jharkhand,Dumka,direct normalized name
+147,Chhattisgarh,Durg,Chhattisgarh,Durg,direct normalized name
+151,Andhra Pradesh,East Godavari,Andhra Pradesh,East Godawari,explicit alias or historical parent
+152,Madhya Pradesh,East Nimar,Madhya Pradesh,Nimar East,explicit alias or historical parent
+154,Uttar Pradesh,Etah,Uttar Pradesh,Etah,direct normalized name
+159,Orissa,Kalahandi,Odisha,Kalahandi,direct normalized name
+161,Chhattisgarh,Kanker,Chhattisgarh,Kanker,direct normalized name
+163,Uttar Pradesh,Kanpur Dehat,Uttar Pradesh,Kanpur Dehat,direct normalized name
+166,Andhra Pradesh,Karimnagar,Andhra Pradesh,Karimnagar,direct normalized name
+169,Uttar Pradesh,Etawah,Uttar Pradesh,Etawah,direct normalized name
+170,Uttar Pradesh,Faizabad,Uttar Pradesh,Faizabad,direct normalized name
+172,Orissa,Ganjam,Odisha,Ganjam,direct normalized name
+173,Maharashtra,Gadchiroli,Maharashtra,Gadchiroli,direct normalized name
+175,Uttar Pradesh,Ghazipur,Uttar Pradesh,Ghazipur,direct normalized name
+176,Jharkhand,Giridih,Jharkhand,Giridih,direct normalized name
+178,Jharkhand,Godda,Jharkhand,Godda,direct normalized name
+180,Uttar Pradesh,Gonda,Uttar Pradesh,Gonda,direct normalized name
+181,Maharashtra,Gondiya,Maharashtra,Gondiya,direct normalized name
+182,Uttar Pradesh,Gorakhpur,Uttar Pradesh,Gorakhpur,direct normalized name
+184,Jharkhand,Gumla,Jharkhand,Gumla,direct normalized name
+185,Madhya Pradesh,Guna,Madhya Pradesh,Guna,direct normalized name
+186,Andhra Pradesh,Guntur,Andhra Pradesh,Guntur,direct normalized name
+187,Bihar,Gopalganj,Bihar,Goplaganj,explicit alias or historical parent
+190,Madhya Pradesh,Gwalior,Madhya Pradesh,Gwaliar,explicit alias or historical parent
+193,Uttar Pradesh,Farrukhabad,Uttar Pradesh,Farrukhabad,direct normalized name
+196,Uttar Pradesh,Fatehpur,Uttar Pradesh,Fatehpur,direct normalized name
+197,Uttar Pradesh,Firozabad,Uttar Pradesh,Firozabad,direct normalized name
+199,Orissa,Gajapati,Odisha,Gajpati,explicit alias or historical parent
+202,Uttar Pradesh,Hamirpur,Uttar Pradesh,Hamirpur,direct normalized name
+203,West Bengal,Haora,West Bengal,Howrah,explicit alias or historical parent
+204,Madhya Pradesh,Harda,Madhya Pradesh,Harda,direct normalized name
+205,Uttar Pradesh,Hardoi,Uttar Pradesh,Hardoi,direct normalized name
+208,Uttar Pradesh,Hathras,Uttar Pradesh,Hathras,direct normalized name
+210,Maharashtra,Hingoli,Maharashtra,Hingoli,direct normalized name
+211,Madhya Pradesh,Hoshangabad,Madhya Pradesh,Hoshangabad,direct normalized name
+212,West Bengal,Hugli,West Bengal,Hoogli,explicit alias or historical parent
+215,Andhra Pradesh,Hyderabad,Andhra Pradesh,Hyderabad + Rangareddy,explicit alias or historical parent
+217,Madhya Pradesh,Indore,Madhya Pradesh,Indore,direct normalized name
+218,Madhya Pradesh,Jabalpur,Madhya Pradesh,Jabalpur,direct normalized name
+221,Orissa,Jajapur,Odisha,Jajpur,explicit alias or historical parent
+224,Orissa,Jagatsinghapur,Odisha,Jagatsinghpur,explicit alias or historical parent
+226,Uttar Pradesh,Jalaun,Uttar Pradesh,Jalaun,direct normalized name
+227,Maharashtra,Jalgaon,Maharashtra,Jalgaon,direct normalized name
+228,Maharashtra,Jalna,Maharashtra,Jalna,direct normalized name
+230,West Bengal,Jalpaiguri,West Bengal,Jalpaiguri,direct normalized name
+234,Chhattisgarh,Jashpur,Chhattisgarh,Jashpur,direct normalized name
+235,Bihar,Jamui,Bihar,Jamui,direct normalized name
+236,Uttar Pradesh,Jaunpur,Uttar Pradesh,Jaunpur,direct normalized name
+237,Madhya Pradesh,Jhabua,Madhya Pradesh,Jhabua,direct normalized name
+239,Uttar Pradesh,Jhansi,Uttar Pradesh,Jhansi,direct normalized name
+240,Orissa,Jharsuguda,Odisha,Jharsuguda,direct normalized name
+245,Uttar Pradesh,Jyotiba Phule Nagar,Uttar Pradesh,Jyotiba Phule Nagar,direct normalized name
+248,Uttar Pradesh,Kannauj,Uttar Pradesh,Kannauj,direct normalized name
+250,Uttar Pradesh,Kanpur Nagar,Uttar Pradesh,Kanpur Nagar,direct normalized name
+257,Uttar Pradesh,Kaushambi,Uttar Pradesh,Kaushambi,direct normalized name
+258,Andhra Pradesh,Khammam,Andhra Pradesh,Khammam,direct normalized name
+259,Uttar Pradesh,Kheri,Uttar Pradesh,Kheri,direct normalized name
+260,Orissa,Khordha,Odisha,Khurda,explicit alias or historical parent
+262,Bihar,Kishanganj,Bihar,Kishanganj,direct normalized name
+263,West Bengal,Koch Bihar,West Bengal,Coochbehar,explicit alias or historical parent
+267,Andhra Pradesh,Medak,Andhra Pradesh,Medak,direct normalized name
+268,Uttar Pradesh,Mirzapur,Uttar Pradesh,Mirzapur,direct normalized name
+269,Uttar Pradesh,Moradabad,Uttar Pradesh,Moradabad,direct normalized name
+270,West Bengal,Murshidabad,West Bengal,Murshidabad,direct normalized name
+271,Uttar Pradesh,Muzaffarnagar,Uttar Pradesh,Muzzaffarnagar,explicit alias or historical parent
+272,Bihar,Muzaffarpur,Bihar,Muzaffarpur,direct normalized name
+274,Madhya Pradesh,Mandsaur,Madhya Pradesh,Mandsaur,direct normalized name
+276,Orissa,Mayurbhanj,Odisha,Mayurbhanj,direct normalized name
+277,Jharkhand,Purbi Singhbhum,Jharkhand,Purbi Singhbhum,direct normalized name
+278,Orissa,Puri,Odisha,Puri,direct normalized name
+279,Bihar,Purnia,Bihar,Purnia,direct normalized name
+280,West Bengal,Puruliya,West Bengal,Purulia,explicit alias or historical parent
+281,Uttar Pradesh,Rae Bareli,Uttar Pradesh,Raibareli,explicit alias or historical parent
+282,Madhya Pradesh,Tikamgarh,Madhya Pradesh,Tikamgarh,direct normalized name
+283,Maharashtra,Kolhapur,Maharashtra,Kolhapur,direct normalized name
+284,West Bengal,Kolkata,West Bengal,Calcutta,explicit alias or historical parent
+285,Bihar,Khagaria,Bihar,Khagaria,direct normalized name
+287,Orissa,Koraput,Odisha,Koraput,direct normalized name
+288,Chhattisgarh,Koriya,Chhattisgarh,Koriya,direct normalized name
+290,Andhra Pradesh,Krishna,Andhra Pradesh,Krishna,direct normalized name
+291,Andhra Pradesh,Kurnool,Andhra Pradesh,Kurnool,direct normalized name
+292,Uttar Pradesh,Kushinagar,Uttar Pradesh,Kushinagar,direct normalized name
+295,Maharashtra,Latur,Maharashtra,Latur,direct normalized name
+297,Uttar Pradesh,Lucknow,Uttar Pradesh,Lucknow,direct normalized name
+307,Bihar,Madhubani,Bihar,Madhubani,direct normalized name
+309,Chhattisgarh,Mahasamund,Chhattisgarh,Mahasamud,explicit alias or historical parent
+312,Bihar,Lakhisarai,Bihar,Lakhisarai,direct normalized name
+313,Uttar Pradesh,Lalitpur,Uttar Pradesh,Lalitpur,direct normalized name
+315,Jharkhand,Lohardaga,Jharkhand,Lohardaga,direct normalized name
+317,Bihar,Madhepura,Bihar,Madhepura,direct normalized name
+318,Uttar Pradesh,Mahrajganj,Uttar Pradesh,Maharaj Ganj,explicit alias or historical parent
+319,Andhra Pradesh,Mahbubnagar,Andhra Pradesh,Mahboobnagar,explicit alias or historical parent
+321,Uttar Pradesh,Mahoba,Uttar Pradesh,Mahoba,direct normalized name
+322,West Bengal,Maldah,West Bengal,Maldah,direct normalized name
+323,Uttar Pradesh,Mainpuri,Uttar Pradesh,Mainpuri,direct normalized name
+326,Maharashtra,Pune,Maharashtra,Pune,direct normalized name
+327,Bihar,Purba Champaran,Bihar,Purbi Champaran,explicit alias or historical parent
+328,Orissa,Malkangiri,Odisha,Malkangiri,direct normalized name
+331,Orissa,Nabarangapur,Odisha,Nawrangpur,explicit alias or historical parent
+332,West Bengal,Nadia,West Bengal,Nadia,direct normalized name
+335,Maharashtra,Nagpur,Maharashtra,Nagpur,direct normalized name
+339,Uttar Pradesh,Mathura,Uttar Pradesh,Mathura,direct normalized name
+340,Uttar Pradesh,Mau,Uttar Pradesh,Mau,direct normalized name
+341,Uttar Pradesh,Meerut,Uttar Pradesh,Meerut,direct normalized name
+346,Maharashtra,Mumbai,Maharashtra,Mumbai City,explicit alias or historical parent
+347,Maharashtra,Mumbai (Suburban),Maharashtra,Mumbai Suburb,explicit alias or historical parent
+348,Bihar,Munger,Bihar,Munger,direct normalized name
+349,Bihar,Nalanda,Bihar,Nalanda,direct normalized name
+351,Andhra Pradesh,Nalgonda,Andhra Pradesh,Nalgonda,direct normalized name
+353,Maharashtra,Nanded,Maharashtra,Nanded,direct normalized name
+354,Maharashtra,Nandurbar,Maharashtra,Nandurbar,direct normalized name
+356,Madhya Pradesh,Narsimhapur,Madhya Pradesh,Narshimhapur,explicit alias or historical parent
+357,Maharashtra,Nashik,Maharashtra,Nashik,direct normalized name
+358,Andhra Pradesh,Nellore,Andhra Pradesh,Nellore,direct normalized name
+359,Madhya Pradesh,Neemuch,Madhya Pradesh,Neemuch,direct normalized name
+361,West Bengal,North Twenty Four Parganas,West Bengal,24 Pargana North,explicit alias or historical parent
+364,Bihar,Nawada,Bihar,Nawada,direct normalized name
+366,Orissa,Nayagarh,Odisha,Nayagarh,direct normalized name
+368,Andhra Pradesh,Nizamabad,Andhra Pradesh,Nizamabad,direct normalized name
+369,Maharashtra,Osmanabad,Maharashtra,Osmanabad,direct normalized name
+370,Jharkhand,Pakaur,Jharkhand,Pakaur,direct normalized name
+375,Orissa,Nuapada,Odisha,Nawapara,explicit alias or historical parent
+379,Madhya Pradesh,Panna,Madhya Pradesh,Panna,direct normalized name
+380,Maharashtra,Parbhani,Maharashtra,Parbhani,direct normalized name
+381,Bihar,Pashchim Champaran,Bihar,Paschimi Champaran,explicit alias or historical parent
+382,West Bengal,Medinipur,West Bengal,Medinipur,direct normalized name
+383,Jharkhand,Pashchimi Singhbhum,Jharkhand,Paschimi Singhbhum,explicit alias or historical parent
+387,Bihar,Patna,Bihar,Patna,direct normalized name
+391,Orissa,Kandhamal,Odisha,Khandamal,explicit alias or historical parent
+392,Uttar Pradesh,Pilibhit,Uttar Pradesh,Pilibhit,direct normalized name
+396,Andhra Pradesh,Prakasam,Andhra Pradesh,Prakasham,explicit alias or historical parent
+397,Uttar Pradesh,Pratapgarh,Uttar Pradesh,Pratapgarh,direct normalized name
+401,Chhattisgarh,Raigarh,Chhattisgarh,Raigarh,direct normalized name
+402,Chhattisgarh,Raipur,Chhattisgarh,Raipur + Dhamtari,explicit alias or historical parent
+403,Madhya Pradesh,Raisen,Madhya Pradesh,Raisen,direct normalized name
+404,Chhattisgarh,Rajnandgaon,Chhattisgarh,Rajnandgaon,direct normalized name
+407,Madhya Pradesh,Rajgarh,Madhya Pradesh,Rajgarh,direct normalized name
+410,Uttar Pradesh,Rampur,Uttar Pradesh,Rampur,direct normalized name
+413,Bihar,Samastipur,Bihar,Samastipur,direct normalized name
+414,Orissa,Sambalpur,Odisha,Sambalpur,direct normalized name
+415,Maharashtra,Sangli,Maharashtra,Sangli,direct normalized name
+417,Uttar Pradesh,Sant Ravidas Nagar Bhadohi,Uttar Pradesh,Sant Ravidas Nagar,explicit alias or historical parent
+418,Maharashtra,Satara,Maharashtra,Satara,direct normalized name
+419,Madhya Pradesh,Satna,Madhya Pradesh,Satna,direct normalized name
+420,Uttar Pradesh,Sant Kabir Nagar,Uttar Pradesh,Sant Kabir Nagar,direct normalized name
+422,Madhya Pradesh,Sehore,Madhya Pradesh,Sehore,direct normalized name
+424,Madhya Pradesh,Seoni,Madhya Pradesh,Seoni,direct normalized name
+426,Uttar Pradesh,Shahjahanpur,Uttar Pradesh,Shahjahanpur,direct normalized name
+427,Madhya Pradesh,Shajapur,Madhya Pradesh,Shajapur,direct normalized name
+428,Bihar,Sheikhpura,Bihar,Sheikhpura,direct normalized name
+429,Bihar,Sheohar,Bihar,Sheohar,direct normalized name
+432,Madhya Pradesh,Shivpuri,Madhya Pradesh,Shivpuri,direct normalized name
+433,Uttar Pradesh,Shrawasti,Uttar Pradesh,Bahraich,explicit alias or historical parent
+434,Jharkhand,Ranchi,Jharkhand,Ranchi,direct normalized name
+435,Andhra Pradesh,Rangareddi,Andhra Pradesh,Hyderabad + Rangareddy,explicit alias or historical parent
+436,Madhya Pradesh,Ratlam,Madhya Pradesh,Ratlam,direct normalized name
+437,Maharashtra,Ratnagiri,Maharashtra,Ratnagiri,direct normalized name
+438,Orissa,Rayagada,Odisha,Rayagada,direct normalized name
+439,Maharashtra,Raigarh,Maharashtra,Raigarh,direct normalized name
+440,Madhya Pradesh,Rewa,Madhya Pradesh,Rewa,direct normalized name
+446,Madhya Pradesh,Sagar,Madhya Pradesh,Sagar,direct normalized name
+447,Uttar Pradesh,Saharanpur,Uttar Pradesh,Saharanpur,direct normalized name
+448,Bihar,Saharsa,Bihar,Saharsa,direct normalized name
+449,Jharkhand,Sahibganj,Jharkhand,Sahibganj,direct normalized name
+453,Bihar,Sitamarhi,Bihar,Sitamarhi,direct normalized name
+454,Uttar Pradesh,Sitapur,Uttar Pradesh,Sitapur,direct normalized name
+456,Bihar,Siwan,Bihar,Siwan,direct normalized name
+459,Uttar Pradesh,Sultanpur,Uttar Pradesh,Sultanpur,direct normalized name
+460,Orissa,Sundargarh,Odisha,Sundargarh,direct normalized name
+461,Bihar,Supaul,Bihar,Sapaul,explicit alias or historical parent
+463,Chhattisgarh,Surguja,Chhattisgarh,Surguja,direct normalized name
+467,Maharashtra,Thane,Maharashtra,Thane,direct normalized name
+480,Maharashtra,Solapur,Maharashtra,Sholapur,explicit alias or historical parent
+481,Orissa,Sonapur,Odisha,Sonepur,explicit alias or historical parent
+482,Uttar Pradesh,Sonbhadra,Uttar Pradesh,Sonbhadra,direct normalized name
+486,West Bengal,South  Twenty Four Parganas,West Bengal,24 Pargana South,explicit alias or historical parent
+489,Andhra Pradesh,Srikakulam,Andhra Pradesh,Srikakulam,direct normalized name
+491,Uttar Pradesh,Siddharthnagar,Uttar Pradesh,Siddharth Nagar,direct normalized name
+492,Madhya Pradesh,Sidhi,Madhya Pradesh,Sidhi,direct normalized name
+494,Maharashtra,Sindhudurg,Maharashtra,Sindhudurg,direct normalized name
+500,Andhra Pradesh,West Godavari,Andhra Pradesh,West Godawari,explicit alias or historical parent
+506,Madhya Pradesh,Ujjain,Madhya Pradesh,Ujjain,direct normalized name
+509,Uttar Pradesh,Unnao,Uttar Pradesh,Unnao,direct normalized name
+516,Uttar Pradesh,Varanasi,Uttar Pradesh,Varanasi,direct normalized name
+518,Madhya Pradesh,Vidisha,Madhya Pradesh,Vidisha,direct normalized name
+521,Bihar,Vaishali,Bihar,Vaishali,direct normalized name
+522,Andhra Pradesh,Visakhapatnam,Andhra Pradesh,Vishakapatnam,explicit alias or historical parent
+523,Andhra Pradesh,Vizianagaram,Andhra Pradesh,Vizianagaram,direct normalized name
+524,Andhra Pradesh,Warangal,Andhra Pradesh,Warangal,direct normalized name
+525,Maharashtra,Wardha,Maharashtra,Wardha,direct normalized name
+526,Maharashtra,Washim,Maharashtra,Washim,direct normalized name
+529,West Bengal,Uttar Dinajpur,West Bengal,Uttar Dinajpur,direct normalized name
+530,Madhya Pradesh,West Nimar,Madhya Pradesh,Nimar West,explicit alias or historical parent
+535,Maharashtra,Yavatmal,Maharashtra,Yavatmal,direct normalized name
+545,Madhya Pradesh,Morena,Madhya Pradesh,Morena,direct normalized name
+546,Madhya Pradesh,Sheopur,Madhya Pradesh,Sheopur,direct normalized name
+548,Jharkhand,Garhwa,Jharkhand,Garhwa,direct normalized name
+549,Jharkhand,Palamu,Jharkhand,Palamu,direct normalized name
+550,Jharkhand,Chatra,Jharkhand,Chatra,direct normalized name
+551,Jharkhand,Hazaribagh,Jharkhand,Hazaribagh,direct normalized name
+552,Jharkhand,Kodarma,Jharkhand,Kodarma,direct normalized name
+553,Bihar,Kaimur (Bhabua),Bihar,Bhabua,explicit alias or historical parent
+555,Bihar,Gaya,Bihar,Gaya,direct normalized name
+556,Bihar,Bhojpur,Bihar,Bhojpur,direct normalized name
+557,Bihar,Buxar,Bihar,Buxar,direct normalized name
+564,Bihar,Jehanabad,Bihar,Jehanabad,direct normalized name
+565,Chhattisgarh,Bilaspur,Chhattisgarh,Bilaspur,direct normalized name
+566,Uttar Pradesh,Bulandshahr,Uttar Pradesh,Bulandshahar,explicit alias or historical parent
+567,Uttar Pradesh,Gautam Buddha Nagar,Uttar Pradesh,Gautam Buddh Nagar,explicit alias or historical parent
+568,Uttar Pradesh,Ghaziabad,Uttar Pradesh,Ghaziabad,direct normalized name
+570,Bihar,Rohtas,Bihar,Rohtas,direct normalized name
+571,Chhattisgarh,Janjgir - Champa,Chhattisgarh,Janjgir-Champa,explicit alias or historical parent
+572,Chhattisgarh,Korba,Chhattisgarh,Korba,direct normalized name
+573,Madhya Pradesh,Dindori,Madhya Pradesh,Dindori,direct normalized name
+574,Madhya Pradesh,Mandla,Madhya Pradesh,Mandla,direct normalized name
+575,Madhya Pradesh,Shahdol,Madhya Pradesh,Shahdol,direct normalized name
+576,Madhya Pradesh,Umaria,Madhya Pradesh,Umaria,direct normalized name
+577,Chhattisgarh,Kawardha,Chhattisgarh,Kawardha,direct normalized name

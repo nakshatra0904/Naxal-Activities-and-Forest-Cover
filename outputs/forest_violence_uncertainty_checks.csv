@@ -1,0 +1,2 @@
+outcome,bootstrap_repetitions,bootstrap_irr_p2_5,bootstrap_irr_p97_5,permutation_repetitions,permutation_two_sided_p,random_seed
+events,500,1.2745101027189494,2.298550024049288,500,0.003992015968063872,20260930
